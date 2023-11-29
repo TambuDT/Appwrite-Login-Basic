@@ -2,9 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Schermata login
-![Schermata principale](./screenshots/login.png)
-![Schermata principale](./screenshots/loginerror.png)
+## Galleria di immagini
+<p align="center">
+  <img src="./screenshots/login.png" alt="Immagine 1" width="500" />
+  <img src="./screenshots/loginerror.png" alt="Immagine 2" width="500" />
+</p>
 
 ## Available Scripts
 
