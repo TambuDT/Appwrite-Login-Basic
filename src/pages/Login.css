@@ -1,0 +1,37 @@
+.page-wrapper{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    background-color: azure;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.oaerror {
+    position: absolute;
+    top: 10px;
+    bottom: auto;
+    width: auto;
+    background-color: #ffffff;
+    padding: 20px;
+    border: 1px solid #eee;
+    border-left-width: 5px;
+    border-radius: 3px;
+    margin: 10px auto;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    opacity: 0; /* Imposta l'opacità a 0 per iniziare */
+    visibility: hidden; /* Imposta la visibilità a nascosto per iniziare */
+    transition: opacity 0.5s ease-in-out, visibility 0.5s ease-in-out; /* Aggiunge la transizione */
+  }
+  .oaerror.visible {
+    opacity: 1;
+    visibility: visible;
+  }
+  .danger{
+    border-left-color: #d9534f; /* Left side border color */
+    background-color: rgba(217, 83, 79, 0.1); /*Same color as the left border with reduced alpha to 0.1*/
+  }
+  .danger strong{
+    color:#d9534f;
+  }
