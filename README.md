@@ -1,7 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+# Getting Started with Appwrite and React
+This project is a simple Appetire auth implementation using react
 ## Galleria di immagini
 <p align="center">
   <img src="./screenshots/login.png" alt="Immagine 1" width="500" />
