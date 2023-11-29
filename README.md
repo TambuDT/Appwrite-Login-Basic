@@ -1,5 +1,5 @@
 # Getting Started with Appwrite and React
-This project is a simple Appetire auth implementation using react
+This project is a simple Appwrite auth implementation using react
 ## Galleria di immagini
 <p align="center">
   <img src="./screenshots/login.png" alt="Immagine 1" width="500" />
