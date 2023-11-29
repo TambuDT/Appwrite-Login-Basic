@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Schermata login
+![Schermata principale](./screenshots/login.png)
+![Schermata principale](./screenshots/loginerror.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
